@@ -20,6 +20,7 @@
 			</Item>
 			<Item Name="acquireSinglePoint.vi" Type="VI" URL="../tool/acquireSinglePoint.vi"/>
 			<Item Name="artInitParm.vi" Type="VI" URL="../tool/artInitParm.vi"/>
+			<Item Name="freqToVolt.vi" Type="VI" URL="../tool/freqToVolt.vi"/>
 			<Item Name="PCI8552B_32.dll" Type="Document" URL="../PCI8552B_32.dll"/>
 			<Item Name="singlePointMode.vi" Type="VI" URL="../mode/singlePointMode.vi"/>
 		</Item>
