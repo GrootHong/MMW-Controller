@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="fileHead.vi" Type="VI" URL="../tool/fileHead.vi"/>
 		<Item Name="queryArtStatus.vi" Type="VI" URL="../tool/queryArtStatus.vi"/>
 		<Item Name="singleFreqMultiSwitchMode.vi" Type="VI" URL="../mode/singleFreqMultiSwitchMode.vi"/>
 		<Item Name="widget.vi" Type="VI" URL="../widget.vi"/>
